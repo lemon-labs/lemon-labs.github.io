@@ -1,7 +1,7 @@
 ---
 permalink: /
 
-title:  "Lemon Labs"
+title:  "Lemonade Labs"
 layout: splash
 classes:
   - landing
@@ -27,10 +27,10 @@ Computational and Information Sciences, Mathematics, and
 Cyberinfrastructure.
 
 We've dubbed the two workshops "Lemon" and "Lemonade" labs.  During
-the Lemon Lab, we will openly discuss challenges in inter- and
-transdisciplinary collaborations and brainstorm ideas on improve
+the Lemon Lab (Spring 2019), we openly discussed challenges in inter-
+and transdisciplinary collaborations and brainstorm ideas on improve
 productivity and outcomes.  At the subsequent Lemonade Lab (Fall
-2019), participants will prototype ideas and solutions identified
+2022), participants will prototype ideas and solutions identified
 during the Lemon Lab workshop in a codefest/hackathon-style event —
 turning "lemons" into thirst-quenching "lemonade."
 
@@ -39,12 +39,15 @@ here](/documents/TRIPODS-X-MainProposal.pdf).
 
 ### Who, When & Where:
 
-May 13-16, 2019, held at [Biosphere 2](http://biosphere2.org) (north
-of Tucson, AZ).  Participants are requested to arrive on May 12 and
-may depart on May 16 morning.  To ensure the best outcome, we are
-inviting a maximum of 25-30 participants for the Lemon Lab.
+Oct 17-20, 2022, held at [Park Vista Hotel, Gatlinburg,
+TN](https://www.hilton.com/en/hotels/gktpvdt-the-park-vista-gatlinburg/)
+near the [Great Smoky Mountains National
+Park](https://www.nps.gov/grsm/index.htm).  Participants are requested
+to arrive on Oct 17 and may depart on Oct 20 morning.  To ensure the
+best outcome, we are inviting a maximum of 25-30 participants for the
+Lemonade Lab.
 
-### Perks of the Lemon/ade Labs:
+### Perks of the Lemonade Labs:
 
 - Travel expenses will be covered by reimbursements from the award.
 - Learn best practices from subject matter experts for sharing data,
@@ -57,10 +60,6 @@ inviting a maximum of 25-30 participants for the Lemon Lab.
   collaborators.
 - Learn how to establish a Commons for sharing products from your
   research projects, teams and TRIPODS center.
-- Contribute to writing a best practices document inspired by popular
-  ["10 simple rules" PLoS
-  Collection](https://collections.plos.org/ten-simple-rules), i.e.,
-  "10 Simple Rules for Productive Data Science Collaborations".
 - Enjoy the tranquil, historic environment of Biosphere2 as the
   events' backdrop, with a behind-the-scenes tour by one of its
   scientists.
@@ -75,14 +74,10 @@ effort, please share your suggestions through
 
 ### Organizers:
 
-Nirav Merchant (Univ. of Arizona)<br/>
 Mona Papes (Univ. of Tennessee, Knoxville)<br/>
-Stephen Kobourov (Univ. of Arizona)<br/>
 Faryad Sahneh (Univ. of Arizona)<br/>
-Ramona Walls (Univ. of Arizona)<br/>
-Tyson Swetnam (Univ. of Arizona)<br/>
-Chi-kwan Chan (Univ. of Arizona)<br/>
-David LeBauer (Univ. of Arizona)
+Stephen Kobourov (Univ. of Arizona)<br/>
+Nirav Merchant (Univ. of Arizona)
 
 [![NSF](/images/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
 [![NIMBioS](/images/nimbios.png)](http://www.nimbios.org/)

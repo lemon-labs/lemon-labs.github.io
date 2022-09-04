@@ -1,5 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
-title: Lemon Labs
+title: Lemonade Labs
 include: ["_pages"]
 plugins:
   - jekyll-include-cache
