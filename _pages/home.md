@@ -6,7 +6,7 @@ layout: splash
 classes:
   - landing
 header:
-  overlay_image: /images/lemons.jpg
+  overlay_image: /images/lemonade.jpg
 ---
 
 ### Why:
