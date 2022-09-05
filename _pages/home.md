@@ -39,38 +39,49 @@ here](/documents/TRIPODS-X-MainProposal.pdf).
 
 ### Who, When & Where:
 
-Oct 17-20, 2022, held at [Park Vista Hotel, Gatlinburg,
-TN](https://www.hilton.com/en/hotels/gktpvdt-the-park-vista-gatlinburg/)
-near the [Great Smoky Mountains National
-Park](https://www.nps.gov/grsm/index.htm).  Participants are requested
-to arrive on Oct 17 and may depart on Oct 20 morning.  To ensure the
-best outcome, we are inviting a maximum of 25-30 participants for the
-Lemonade Lab.
+After a very long hiatus we finally have the dates and venue finalized
+for the concluding activity of the Lemon Labs series. Keeping with the
+tradition of organizing events at fun locations, our amazing
+colleagues at UT Knoxville have managed to secure a popular venue and
+accommodations near [Great Smoky
+Mountains](https://www.nps.gov/grsm/index.htm) ([Park
+Vista](https://www.parkvista.com/), Gatlinburg) during fall foliage.
 
-### Perks of the Lemonade Labs:
+**Dates:** 17-20 October 2022<br/>
+**Location:** Park Vista Hotel, Gatlinburg, TN<br/>
+**Closest Airport:** McGhee-Tyson Airport (TYS), Knoxville, TN
 
-- Travel expenses will be covered by reimbursements from the award.
-- Learn best practices from subject matter experts for sharing data,
-  code, models and obtain access to large-scale computing systems
-  (CPU/GPU) at no cost for your TRIPODS project.
-- Learn how different disciplines are making effective use of "Big
-  Data" tools like Apache Spark, Storm, Kafka etc. and ML platforms
-  TensorFlow, MLflow etc.
-- Learn techniques for sharing reproducible analyses with
-  collaborators.
-- Learn how to establish a Commons for sharing products from your
-  research projects, teams and TRIPODS center.
-- Enjoy the tranquil, historic environment of Biosphere2 as the
-  events' backdrop, with a behind-the-scenes tour by one of its
-  scientists.
-- Be part of a welcoming community of collaborators with experience in
-  developing data science based tools, technologies and
-  community-adopted resources.
+To refresh our collective memory the goal of the two workshops "Lemon"
+and "Lemonade" labs (funded by NSF). During the Lemon Lab, we
+discussed challenges in inter and transdisciplinary collaborations and
+brainstormed ideas for improving productivity and outcomes (summarized
+in our [PLoS
+paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008879)).
 
-If you have any thoughts or ideas on how to improve this event or know
-someone who'd enjoy contributing and learning from this collective
-effort, please share your suggestions through
-[faryad@email.arizona.edu](mailto:faryad@email.arizona.edu).
+Many of you have incorporated parts of what we discussed in the PLoS
+paper into new collaborations, courses, and labs. For the Lemonade
+Lab, participants will share some of their experiences and suggest
+improvements to the initial recommendations. The key activity for
+Lemonade lab is to reimagine the technical/computing/collaboration
+components for the [knowledge
+commons](https://en.wikipedia.org/wiki/Knowledge_commons) aspects for
+your discipline/community and sketching/prototyping ideas and
+solutions in a codefest/hackathon-style.
+
+Our participants will include practioners that build/support
+platforms/tools for Data Science workloads and we will form teams that
+collectively work on focused topics of interest. We will hold
+pre-workshop planning zoom sessions so we can make this event
+productive for everyone. This event will not have a virtual component
+(all in person) as we expect smaller teams to wander off to a
+hike/walk and work where they feel comfortable.
+
+Please RSVP your attendance using this
+[form](https://forms.gle/S7D8xPXs5QZw5wPm8). NSF funds will support
+the travel and lodging, we will send details on booking your travel in
+two weeks.
+
+Feel free to contact us if you have any questions/suggestions.
 
 ### Organizers:
 
